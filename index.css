@@ -4,7 +4,7 @@ html, body{
     background-color: ;
     }
     header{
-    background-image: url("/wawa/skyy.jpg");
+    background-image: url("skyy.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
