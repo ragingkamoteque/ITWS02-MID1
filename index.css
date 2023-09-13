@@ -52,6 +52,14 @@ html, body{
         background: skyblue;
         border-radius: 25px;
     }
+    .peter{
+        max-width: 900px;
+        margin: auto;
+        padding: 20px;
+        font-family: monospace;
+        font-weight: bold;
+        background: skyblue;
+        border-radius: 25px;
     div{
         color: rgb(0, 0, 0)  
     }
