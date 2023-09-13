@@ -40,7 +40,7 @@ html, body{
         font-family: monospace;
         font-weight: bold;
         background-color: rgb(135, 206, 235); /* Skyblue background with 30% opacity */
-        opacity: 0.8;
+        opacity: 0.6;
         border-radius: 25px;
     }
     .img-link{
