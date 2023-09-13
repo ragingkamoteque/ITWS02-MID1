@@ -27,7 +27,7 @@ html, body{
     background: skyblue;
     border-radius: 25px;
     }
-    .img-poster{
+    .img-link{
         display: flex;
         flex-direction: row;
         justify-content: center;
