@@ -50,6 +50,7 @@ html, body{
         font-family: monospace;
         font-weight: bold;
         background: skyblue;
+        border-radius: 25px;
     }
     div{
         color: rgb(0, 0, 0)  
